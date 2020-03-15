@@ -1,0 +1,8 @@
+<templateSet group="Testing">
+  <template name="utest" value="@Test&#10;fun `$NAME_OF_TEST$`() {&#10;&#10;}" description="JUnit 5 Test" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME_OF_TEST" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+</templateSet>
