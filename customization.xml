@@ -1,0 +1,16 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="Android.RunLayoutInspector" is_action="true" action_type="1" position="8">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Tool Windows" is_group="true" action_type="1" position="10">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Tools" />
+      <path value="Android" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+  </component>
+</application>
