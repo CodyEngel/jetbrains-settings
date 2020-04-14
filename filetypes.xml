@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping pattern="feature_flags" type="YAML" />
     </extensionMap>
   </component>
