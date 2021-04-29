@@ -3,12 +3,14 @@
     <property name="created">2021-04-26T14:46:16</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2021-04-26T16:02:19</property>
+    <property name="modified">2021-04-29T08:23:48</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <colors>
+    <option name="CARET_COLOR" value="" />
     <option name="CARET_ROW_COLOR" value="" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
+    <option name="GUTTER_BACKGROUND" value="" />
     <option name="RECENT_LOCATIONS_SELECTION" value="" />
   </colors>
   <attributes>
